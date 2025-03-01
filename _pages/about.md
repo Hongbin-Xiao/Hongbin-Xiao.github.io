@@ -19,17 +19,16 @@ redirect_from:
 
 <section id="about-me">
   <h1>👋 About Me</h1>
+
 <ul>
-<li>
-    I am a third-year Ph.D. student at the School of Computer Science and Engineering, Guangxi Normal University. My supervisor is <a href="http://www.se.gxnu.edu.cn/zhili/main.htm" target="_blank">Professor Zhi Li</a>. I am expected to graduate in June 2026.
-</li>
   <li>
-    I received my Bachelor's degree in Software Engineering from Zhengzhou University of Light Industry in 2020.
+    I am currently a third-year Ph.D. candidate at the School of Computer Science and Engineering, Guangxi Normal University, under the supervision of <a href="http://www.se.gxnu.edu.cn/zhili/main.htm" target="_blank">Professor Zhi Li</a>. I am expected to complete my Ph.D. by June 2026.
   </li>
   <li>
-    My research interests primarily focus on software engineering, requirements engineering, problem frames, model-driven development, model transformation, large language models, and artificial intelligence.
+    My research interests include **S**oftware **E**ngineering (**SE**), **R**equirements **E**ngineering (**RE**), **P**roblem **F**rames (**PF**), **M**odel-**D**riven **D**evelopment (**MDD**), **M**odel **T**ransformation (**MT**), **L**arge **L**anguage **M**odels (**LLM**), and **A**rtificial **I**ntelligence (**AI**).
   </li>
 </ul>
+
 
 </section>
 
