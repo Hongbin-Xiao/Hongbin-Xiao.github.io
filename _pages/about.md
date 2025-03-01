@@ -25,9 +25,10 @@ redirect_from:
     I am currently a third-year Ph.D. candidate at the School of Computer Science and Engineering, Guangxi Normal University, under the supervision of <a href="http://www.se.gxnu.edu.cn/zhili/main.htm" target="_blank">Professor Zhi Li</a>. I am expected to complete my Ph.D. by June 2026.
   </li>
   <li>
-    My research interests include Software Engineering (**SE**), Requirements Engineering (**RE**), Problem Frames (**PF**), Model-Driven Development (**MDD**), Model Transformation (**MT**), Large Language Models (**LLM**), and Artificial Intelligence (**AI**).
+    My research interests include <strong>Software Engineering (SE)</strong>, <strong>Requirements Engineering (RE)</strong>, <strong>Problem Frames (PF)</strong>, <strong>Model-Driven Development (MDD)</strong>, <strong>Model Transformation (MT)</strong>, <strong>Large Language Models (LLM)</strong>, and <strong>Artificial Intelligence (AI)</strong>.
   </li>
 </ul>
+
 
 
 
