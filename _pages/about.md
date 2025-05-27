@@ -90,3 +90,4 @@ redirect_from:
 - Reviewer: Expert Systems with Applications    (ESWA).
 - Reviewer: Information and Software Technology (IST).
 - Reviewer: SoftwareX .
+- Reviewer: The 8th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE2025)
