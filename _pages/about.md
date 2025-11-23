@@ -43,7 +43,12 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html). -->
 
 # 📝 Publications
-
+- <span style="background-color: lightblue;">``计算机教育'26``</span> Diagnosing Organizational Bottlenecks inStudentSoftware Projects with Extended Problem Frames, Zicheng Huang、**Hongbin Xiao**、Zhi Li.
+- <span style="background-color: lightblue;">``INTERNETWARE'25``</span> [XR4PD: Augmented Reality for Visualising Problem Diagrams in Requirements Analysis](https://dl.acm.org/doi/full/10.1145/3755881.3755937?locale=zh_CN), Yang Hua, **Hongbin Xiao**, Wenhao Wang, Zhi Li.
+- <span style="background-color: lightblue;">``REW'25``</span> [ME4PD: A Multi-Modal and Dynamically Extensible System for Problem Frame Construction](https://ieeexplore.ieee.org/document/11190304), Yang Hua; **Hongbin Xiao**; Zhi Li.
+- <span style="background-color: lightblue;">``REW'25``</span> [From Causal Graphs to Problem Diagrams: Enhancing Safety Requirement Modeling with LLM](https://ieeexplore.ieee.org/document/11190112), Liyuan Zhang; Zhi Li; **Hongbin Xiao**; Changjin Li; Bo Huang; Xu Chen.
+- <span style="background-color: lightblue;">``QRS'25``</span> [Learning in Imperfect Environments: Multi-Label Classification of Non-Functional Requirements under Long-Tailed Distribution](https://ieeexplore.ieee.org/document/11216511), Wenhao Wang; Zicheng Huang; **Hongbin Xiao**; Zhi Li; Bo Huang.
+- <span style="background-color: lightblue;">``QRS'25``</span> [PF4SAFE: Problem Frames extension for Safety Analysis based on FBN Evaluation](https://ieeexplore.ieee.org/document/11216502/), Liyuan Zhang; **Hongbin Xiao**; Wenhao Wang; Zhi Li; Changjin Li.
 - <span style="background-color: lightblue;">``FSE'25``</span> [PF2UML: A Tool for Problem-Oriented Requirements Modeling and Transformation](https://dl.acm.org/doi/10.1145/3696630.3728596), **Hongbin Xiao**, Li, Z., Yang, Y., et al.
 - <span style="background-color: lightblue;">``ICACTE'24``</span> [Combining STPA with PF Requirements Analysis: Taking the Insulin Pump Problem as an Example](https://doi.org/10.1109/ICACTE62428.2024.10871520), Zhou, X., **Hongbin Xiao**, Zheng, B., et al.
 - <span style="background-color: lightblue;">``REW'24``</span> [A Microservice Decomposition Approach Driven by Sub-Requirement References in Problem Diagrams](https://doi.org/10.1109/REW61692.2024.00031), Bu, Y., **Hongbin Xiao**, Li, Z., Xie, X.
