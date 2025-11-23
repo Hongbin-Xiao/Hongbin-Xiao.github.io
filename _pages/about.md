@@ -86,7 +86,14 @@ redirect_from:
 - *2022.12 - 2024.12*, Research on Multi-core Clustering Algorithms with Block Diagonal Properties, Open Project of Guangxi Key Laboratory of Multi-source Information Mining and Security (NO.MIMS22-03), Participant.
 
 # 🌟 Academic Service
-- Reviewer: Expert Systems with Applications    (ESWA).
-- Reviewer: Information and Software Technology (IST).
-- Reviewer: SoftwareX .
+
+## Journal Reviewer
+- Reviewer: **Expert Systems with Applications (ESWA)**
+- Reviewer: **Information and Software Technology (IST)**
+- Reviewer: **SoftwareX**
+- **Recognised Reviewer: Software Impacts (SIMPA)** ✨
+
+## Conference Service
+- **Technical Committee Member**: The 18th International Conference on Advanced Computer Theory and Engineering (ICACTE 2025), Nanjing, China, September 26-28, 2025
 - Reviewer: The 8th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE2025)
+
