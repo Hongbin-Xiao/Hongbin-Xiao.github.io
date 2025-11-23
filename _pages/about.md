@@ -75,6 +75,8 @@ redirect_from:
 - *2016.09 - 2020.06*, **B.S. in Computer Science**, Zhengzhou University of Light Industry, Zhengzhou, China
 
 # 💬 Invited Talks
+- *2025.11*, PF-AIRM, Chinasoft 2025.
+- *2025.06*, PF2UML, FSE 2025.
 - *2024.11*, LLM4LCR, Chinasoft 2024.
 - *2021.09*, Extended Meta-Model of Problem Frames, RE 2021.
 
