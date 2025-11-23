@@ -80,10 +80,35 @@ redirect_from:
 
 
 # 📂 Projects
-- *2024*, Requirement Modeling and Transformation of Cyber-Physical Systems for Problem-Oriented Scenarios, University-level Research Project (Funded by Training Institution, XYCBZ2024024), Leader.
-- *2024*, Research and Development of Key Technologies for Human Resource Digital Intelligence Services, Guangxi Key Research and Development Plan, Participant, Participant..
-- *2023*, Research and Development of Collaborative Mechanism and Management Platform for National and Internal Auditing, Guangxi Internal Audit Research Project, Participant, 5th Prize in Final Evaluation.
-- *2022.12 - 2024.12*, Research on Multi-core Clustering Algorithms with Block Diagonal Properties, Open Project of Guangxi Key Laboratory of Multi-source Information Mining and Security (NO.MIMS22-03), Participant.
+
+## As Leader
+- **2024** - Requirement Modeling and Transformation of Cyber-Physical Systems for Problem-Oriented Scenarios
+  - Type: University-level Research Project
+  - Funding: Training Institution (XYCBZ2024024)
+  - Role: **Leader**
+
+## As Participant
+
+- **2024** - Research on Government Procurement Audit Analysis Model Based on Big Data Technology
+  - Type: Guangxi Audit Key Research Project (Open Bidding)
+  - Source: Guilin Municipal Audit Bureau
+  - Role: Participant
+  - Achievement: **Second Prize** 🏆
+
+- **2024** - Research and Development of Key Technologies for Human Resource Digital Intelligence Services
+  - Type: Guangxi Key Research and Development Plan
+  - Role: Participant
+
+- **2023** - Research and Development of Collaborative Mechanism and Management Platform for National and Internal Auditing
+  - Type: Guangxi Internal Audit Research Project
+  - Role: Participant
+  - Achievement: **1st Prize in Final Evaluation** 🏆
+
+- **2022.12 - 2024.12** - Research on Multi-core Clustering Algorithms with Block Diagonal Properties
+  - Type: Open Project of Guangxi Key Laboratory of Multi-source Information Mining and Security
+  - Project No.: MIMS22-03
+  - Role: Participant
+
 
 # 🌟 Academic Service
 
