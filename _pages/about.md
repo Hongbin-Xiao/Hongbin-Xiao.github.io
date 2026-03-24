@@ -93,12 +93,18 @@ redirect_from:
 
 ## As Leader
 - **2024** - Requirement Modeling and Transformation of Cyber-Physical Systems for Problem-Oriented Scenarios
-  - Type: University-level Research Project
-  - Funding: Training Institution (XYCBZ2024024)
+  - Type: Guangxi Graduate Education Innovation Program
+  -Project Number: XYCBZ2024024
   - Role: **Leader**
 
 ## As Participant
 
+- **2024** - Research on Government Procurement Audit Analysis Model Based on Big Data Technology
+  - Type: Guangxi Graduate Education Innovation Program
+  -Project Number: YCSW2025193
+  - Role: Participant (Second)
+
+  
 - **2024** - Research on Government Procurement Audit Analysis Model Based on Big Data Technology
   - Type: Guangxi Audit Key Research Project (Open Bidding)
   - Source: Guilin Municipal Audit Bureau
