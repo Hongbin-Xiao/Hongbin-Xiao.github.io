@@ -43,7 +43,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html). -->
 
 # 📝 Publications
-- <span style="background-color: lightblue;">``计算机教育'26``</span> Diagnosing Organizational Bottlenecks inStudentSoftware Projects with Extended Problem Frames, Zicheng Huang、**Hongbin Xiao**、Zhi Li.
+- <span style="background-color: lightblue;">``计算机教育'26``</span> [Diagnosing Organizational Bottlenecks in Student Software Projects with Extended Problem Frames](https://kns.cnki.net/kcms2/article/abstract?v=9oxawJFDgQV-y5zFs5UnGw-FXPWY4L8DnKQL2jYPqTpve4QjR0WhsxclRfWncjxlAwO7a68fmsn8Dt2k88yymigf6o3XSagUm6Zweu8Uw6AyRE_WRIMgM5Azue_ts6VVSAJcbuiTGOh-CF5r0hoSB-0cxC3KlB5T&uniplatform=NZKPT), Zicheng Huang、**Hongbin Xiao**、Zhi Li.
 - <span style="background-color: lightblue;">``INTERNETWARE'25``</span> [XR4PD: Augmented Reality for Visualising Problem Diagrams in Requirements Analysis](https://dl.acm.org/doi/full/10.1145/3755881.3755937?locale=zh_CN), Yang Hua, **Hongbin Xiao**, Wenhao Wang, Zhi Li.
 - <span style="background-color: lightblue;">``REW'25``</span> [ME4PD: A Multi-Modal and Dynamically Extensible System for Problem Frame Construction](https://ieeexplore.ieee.org/document/11190304), Yang Hua; **Hongbin Xiao**; Zhi Li.
 - <span style="background-color: lightblue;">``REW'25``</span> [From Causal Graphs to Problem Diagrams: Enhancing Safety Requirement Modeling with LLM](https://ieeexplore.ieee.org/document/11190112), Liyuan Zhang; Zhi Li; **Hongbin Xiao**; Changjin Li; Bo Huang; Xu Chen.
