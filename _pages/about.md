@@ -38,9 +38,7 @@ redirect_from:
 - *2024.12*: &nbsp;🎉🎉 Our paper "A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions" has been accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025).
 - *2024.10*: &nbsp;🎉🎉 We conduct an empirical study on the Package-to-Group mechanism! See more [details](https://arxiv.org/abs/2410.10131).
 - *2024.08*: &nbsp;🎉🎉 We propose a CPS requirements modeling benchmark and evluate the ability of advanced LLMs on requirements modeling.
-- *2024.05*: &nbsp;🎉🎉 We propose a multi-agents collaboration framework for requirements engineering! See more [details](https://arxiv.org/pdf/2405.03256).
-- *2024.01*: &nbsp;🎉🎉 Our paper "ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models" has been accepted by [Journal of Computer Research and Development](https://crad.ict.ac.cn/).
-- *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html). -->
+- -->
 
 # 📝 Publications
 
@@ -99,7 +97,7 @@ redirect_from:
 
 ## As Participant
 
-- **2024** - Research on Government Procurement Audit Analysis Model Based on Big Data Technology
+- **2025** - Research on Government Procurement Audit Analysis Model Based on Big Data Technology
   - Type: Guangxi Graduate Education Innovation Program
   -Project Number: YCSW2025193
   - Role: Participant (Second)
