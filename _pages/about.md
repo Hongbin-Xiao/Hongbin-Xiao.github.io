@@ -43,6 +43,9 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html). -->
 
 # 📝 Publications
+
+- <span style="background-color: lightblue;">``武汉大学学报'26``</span> [A Problem Frames-Based Method for Intelligent Agent Requirements Modeling](https://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2026.0011/), **Hongbin Xiao**, Wanglong Liu, Shuru Tan, et al.
+- <span style="background-color: lightblue;">``SoftwareX'26``</span> [PEAT-LLM4LCR: Chinese Legal Contract Automatic Review Tool Integrating Prompt Engineering and Agent Technology](https://www.sciencedirect.com/science/article/pii/S2352711026000981), **Hongbin Xiao**, Shuru Tan, Wanglong Liu, Ye Li, Xin Zhou, Zhi Li, Xiaolan Xie.
 - <span style="background-color: lightblue;">``计算机教育'26``</span> [Diagnosing Organizational Bottlenecks in Student Software Projects with Extended Problem Frames](https://kns.cnki.net/kcms2/article/abstract?v=9oxawJFDgQV-y5zFs5UnGw-FXPWY4L8DnKQL2jYPqTpve4QjR0WhsxclRfWncjxlAwO7a68fmsn8Dt2k88yymigf6o3XSagUm6Zweu8Uw6AyRE_WRIMgM5Azue_ts6VVSAJcbuiTGOh-CF5r0hoSB-0cxC3KlB5T&uniplatform=NZKPT), Zicheng Huang、**Hongbin Xiao**、Zhi Li.
 - <span style="background-color: lightblue;">``INTERNETWARE'25``</span> [XR4PD: Augmented Reality for Visualising Problem Diagrams in Requirements Analysis](https://dl.acm.org/doi/full/10.1145/3755881.3755937?locale=zh_CN), Yang Hua, **Hongbin Xiao**, Wenhao Wang, Zhi Li.
 - <span style="background-color: lightblue;">``REW'25``</span> [ME4PD: A Multi-Modal and Dynamically Extensible System for Problem Frame Construction](https://ieeexplore.ieee.org/document/11190304), Yang Hua; **Hongbin Xiao**; Zhi Li.
