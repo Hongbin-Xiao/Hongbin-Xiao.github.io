@@ -41,12 +41,11 @@ redirect_from:
 - -->
 
 # 📝 Publications
-<span style="background-color: lightblue;">Software: Practice and Experience'26</span> Identifying Conflicting Requirements in Problem-Oriented Requirements Engineering: A Case Study Based Approach Using Enhanced Pairwise Comparison Method (E-PCM), Waqas Junaid, Yulong Li, Hongbin Xiao, Zhi Li.
+- <span style="background-color: lightblue;">``Software: Practice and Experience'26``</span> [Identifying Conflicting Requirements in Problem-Oriented Requirements Engineering: A Case Study Based Approach Using Enhanced Pairwise Comparison Method (E-PCM)](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.70082), **Waqas Junaid**, Yulong Li, **Hongbin Xiao**, Zhi Li.
 
-<span style="background-color: lightblue;">Empirical Software Engineering'26</span> Machine learning, deep learning, or large language models: An empirical study on multi-label requirements classification, Wenhao Wang, Jiaxi Peng, Hongbin Xiao, Yang Hua, Yufei Zhou, Zhi Li, Xiaoli Wang.
+- <span style="background-color: lightblue;">``Empirical Software Engineering'26``</span> [Machine learning, deep learning, or large language models: An empirical study on multi-label requirements classification](https://link.springer.com/article/10.1007/s10664-026-10879-3), **Wenhao Wang**, Jiaxi Peng, **Hongbin Xiao**, Yang Hua, Yufei Zhou, Zhi Li, Xiaoli Wang.
 
-<span style="background-color: lightblue;">计算机研究与发展'26</span> RD2ESC：多智能体嵌入式代码生成框架, 谭舒孺, 肖宏彬, 李智, 谢晓兰, 武天昊, 汤飞.
-
+- <span style="background-color: lightblue;">``计算机研究与发展'26``</span> [RD2ESC：多智能体嵌入式代码生成框架](https://kns.cnki.net/kcms2/article/abstract?v=H26UkN0bSyTtjc5zYryz7l0QWmEWDdSYIJqEk1WW_uS5ejMNBykAvsHo-Ox1zKBbNo0Lq1RWb7NjsCqjZedZSvC_0wu2eDuVHw19yBER-2wQ2sxh8hjNmgVCIY73S9Us5EoQXPAQgBxo_VHHSFw4CMZ4I6OVzd_taNs_2yRV2gjyNfGCZht8uA==&uniplatform=NZKPT&language=CHS), **谭舒孺**, **肖宏彬**, 李智, 谢晓兰, 武天昊, 汤飞.
 - <span style="background-color: lightblue;">``武汉大学学报'26``</span> [A Problem Frames-Based Method for Intelligent Agent Requirements Modeling](https://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2026.0011/), **Hongbin Xiao**, Wanglong Liu, Shuru Tan, et al.
 - <span style="background-color: lightblue;">``SoftwareX'26``</span> [PEAT-LLM4LCR: Chinese Legal Contract Automatic Review Tool Integrating Prompt Engineering and Agent Technology](https://www.sciencedirect.com/science/article/pii/S2352711026000981), **Hongbin Xiao**, Shuru Tan, Wanglong Liu, Ye Li, Xin Zhou, Zhi Li, Xiaolan Xie.
 - <span style="background-color: lightblue;">``计算机教育'26``</span> [Diagnosing Organizational Bottlenecks in Student Software Projects with Extended Problem Frames](https://kns.cnki.net/kcms2/article/abstract?v=9oxawJFDgQV-y5zFs5UnGw-FXPWY4L8DnKQL2jYPqTpve4QjR0WhsxclRfWncjxlAwO7a68fmsn8Dt2k88yymigf6o3XSagUm6Zweu8Uw6AyRE_WRIMgM5Azue_ts6VVSAJcbuiTGOh-CF5r0hoSB-0cxC3KlB5T&uniplatform=NZKPT), Zicheng Huang、**Hongbin Xiao**、Zhi Li.
