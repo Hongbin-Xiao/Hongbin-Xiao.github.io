@@ -41,6 +41,11 @@ redirect_from:
 - -->
 
 # 📝 Publications
+<span style="background-color: lightblue;">Software: Practice and Experience'26</span> Identifying Conflicting Requirements in Problem-Oriented Requirements Engineering: A Case Study Based Approach Using Enhanced Pairwise Comparison Method (E-PCM), Waqas Junaid, Yulong Li, Hongbin Xiao, Zhi Li.
+
+<span style="background-color: lightblue;">Empirical Software Engineering'26</span> Machine learning, deep learning, or large language models: An empirical study on multi-label requirements classification, Wenhao Wang, Jiaxi Peng, Hongbin Xiao, Yang Hua, Yufei Zhou, Zhi Li, Xiaoli Wang.
+
+<span style="background-color: lightblue;">计算机研究与发展'26</span> RD2ESC：多智能体嵌入式代码生成框架, 谭舒孺, 肖宏彬, 李智, 谢晓兰, 武天昊, 汤飞.
 
 - <span style="background-color: lightblue;">``武汉大学学报'26``</span> [A Problem Frames-Based Method for Intelligent Agent Requirements Modeling](https://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2026.0011/), **Hongbin Xiao**, Wanglong Liu, Shuru Tan, et al.
 - <span style="background-color: lightblue;">``SoftwareX'26``</span> [PEAT-LLM4LCR: Chinese Legal Contract Automatic Review Tool Integrating Prompt Engineering and Agent Technology](https://www.sciencedirect.com/science/article/pii/S2352711026000981), **Hongbin Xiao**, Shuru Tan, Wanglong Liu, Ye Li, Xin Zhou, Zhi Li, Xiaolan Xie.
