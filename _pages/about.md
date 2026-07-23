@@ -41,6 +41,7 @@ redirect_from:
 - -->
 
 # 📝 Publications
+- <span style="background-color: lightblue;">``International Journal of Software Engineering and Knowledge Engineering'26``</span> [PF2UML: An Automated Model-Driven Transformation from Problem Frames to UML Requirement Models](https://www.worldscientific.com/doi/10.1142/S0218194026500609), **Hongbin Xiao**, Zhi Li, Yilong Yang, Dongming Jin.
 - <span style="background-color: lightblue;">``Software: Practice and Experience'26``</span> [Identifying Conflicting Requirements in Problem-Oriented Requirements Engineering: A Case Study Based Approach Using Enhanced Pairwise Comparison Method (E-PCM)](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.70082), Waqas Junaid, Yulong Li, **Hongbin Xiao**, Zhi Li.
 - <span style="background-color: lightblue;">``Empirical Software Engineering'26``</span> [Machine learning, deep learning, or large language models: An empirical study on multi-label requirements classification](https://link.springer.com/article/10.1007/s10664-026-10879-3), Wenhao Wang, Jiaxi Peng, **Hongbin Xiao**, Yang Hua, Yufei Zhou, Zhi Li, Xiaoli Wang.
 - <span style="background-color: lightblue;">``计算机研究与发展'26``</span> [RD2ESC：多智能体嵌入式代码生成框架](https://kns.cnki.net/kcms2/article/abstract?v=H26UkN0bSyTtjc5zYryz7l0QWmEWDdSYIJqEk1WW_uS5ejMNBykAvsHo-Ox1zKBbNo0Lq1RWb7NjsCqjZedZSvC_0wu2eDuVHw19yBER-2wQ2sxh8hjNmgVCIY73S9Us5EoQXPAQgBxo_VHHSFw4CMZ4I6OVzd_taNs_2yRV2gjyNfGCZht8uA==&uniplatform=NZKPT&language=CHS), 谭舒孺, **肖宏彬**, 李智, 谢晓兰, 武天昊, 汤飞.
